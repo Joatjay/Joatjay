@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Capstone Project:</h2>
 
-- [Threat Modeling (SimpliLearn)](https://github.com/Joatjay)
+- [Threat Modeling (SimpliLearn)](https://github.com/Joatjay/ThreatModelingProject))
 
 <h2>🧪 Cybersecurity Labs:</h2>
 
