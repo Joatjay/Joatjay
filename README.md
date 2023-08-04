@@ -1,20 +1,12 @@
 <h1>Hi, I'm Jay! <br/><a href="https://www.linkedin.com/in/jayshrestha55/">Junior Cybersecurity Professional || Cyber Threat Analyst</a></h1>
-  * Security Analyst <br/>
-  * Penetration Tester 
 
 <h2>👨‍💻 Cybersecurity Capstone Project:</h2>
 
-- <b>Threat Modeling (SimpliLearn)</b>
-  - [Applied STRIDE and DREAD model referencing QWASP top 10](https://github.com/Joatjay/)
-  - [Gathered threat intelligence using OSINT framework tools like theHarvester, Shodan](https://github.com/Joatjay/)
-  - [Used Threat Dragon to create logical design for overall threat model](https://github.com/Joatjay/)
+- [Threat Modeling (SimpliLearn)](C)
+
 <h2>🧪 Cybersecurity Labs:</h2>
 
-- <b>EC-Council CyberQ Lab: Vulnerability Assessment</b>
-  - [Identified vulnerabilities and ranked by their severity](https://github.com/Joatjay)
-  - [Made recommendations for remediation actions to address the identified vulnerabilities](https://github.com/Joatjay)
-  - [Assessed overall risk posture of the system](https://github.com/Joatjay)
-  - [Known the security weaknesses lesson that need attention to enhance the system's security](https://github.com/Joatjay)
+- [EC-Council CyberQ Lab: Vulnerability Assessment](https://github.com/Joatjay)
 
 <h2> 🤳 Connect with me:</h2>
 
