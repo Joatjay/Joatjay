@@ -1,7 +1,6 @@
-<h1>Hi, I'm Jay! <br/><a href="https://github.com/Joatjay">Cyber Threat Analyst</a></h1>
+<h1>Hi, I'm Jay! <br/><a href="https://www.linkedin.com/in/jayshrestha55/">Junior Cybersecurity Professional || Cyber Threat Analyst</a></h1>
   * Security Analyst <br/>
   * Penetration Tester 
-<h1></a> <a href="https://www.linkedin.com/in/jayshrestha55/">Junior Cybersecurity Professional</a> </h1>
 
 <h2>👨‍💻 Cybersecurity Capstone Project:</h2>
 
@@ -12,9 +11,10 @@
 <h2>🧪 Cybersecurity Labs:</h2>
 
 - <b>EC-Council CyberQ Lab: Vulnerability Assessment</b>
-  - [Conducted DNS footprinting, port scanning, user enumeration, vulnerability scans using Nessus tool ](https://github.com/Joatjay)
-  - [Used NMAP tool for network scanning, Wireshark for sniffing, Metasploit for pentesting, OWASP ZAP for web application testing](https://github.com/Joatjay)
-  - kali Linux 
+  - [Identified vulnerabilities and ranked by their severity](https://github.com/Joatjay)
+  - [Made recommendations for remediation actions to address the identified vulnerabilities](https://github.com/Joatjay)
+  - [Assessed overall risk posture of the system](https://github.com/Joatjay)
+  - [Known the security weaknesses lesson that need attention to enhance the system's security](https://github.com/Joatjay)
 
 <h2> 🤳 Connect with me:</h2>
 
