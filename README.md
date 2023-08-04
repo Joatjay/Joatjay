@@ -8,12 +8,13 @@
 - <b>Threat Modeling (SimpliLearn)</b>
   - [Applied STRIDE and DREAD model referencing QWASP top 10](https://github.com/Joatjay/)
   - [Gathered threat intelligence using OSINT framework tools like theHarvester, Shodan](https://github.com/Joatjay/)
-  - [Used Threat Dragon to create threat model diagram](https://github.com/Joatjay/)
-- <b>Kali Linux</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+  - [Used Threat Dragon to create logical design for overall threat model](https://github.com/Joatjay/)
+<h2>🧪 Cybersecurity Labs:</h2>
+
+- <b>EC-Council CyberQ Lab: Vulnerability Assessment</b>
+  - [Conducted DNS footprinting, port scanning, user enumeration, vulnerability scans using Nessus tool ](https://github.com/Joatjay)
+  - [Used NMAP tool for network scanning, Wireshark for sniffing, Metasploit for pentesting, OWASP ZAP for web application testing](https://github.com/Joatjay)
+  - kali Linux 
 
 <h2> 🤳 Connect with me:</h2>
 
