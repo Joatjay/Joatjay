@@ -7,6 +7,7 @@
 <h2>🧪 Cybersecurity Labs:</h2>
 
 - [EC-Council CyberQ Lab: Vulnerability Assessment](https://github.com/Joatjay)
+- [SQLi Labs](https://github.com/Joatjay)
 
 <h2> 🤳 Connect with me:</h2>
 
