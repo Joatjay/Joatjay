@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jay! <br/><a href="https://www.linkedin.com/in/jayshrestha55/">Junior Cybersecurity Professional || Cyber Threat Analyst</a></h1>
+<h1>Hi, I'm Jay! <br/><a href="https://www.linkedin.com/in/jayshrestha55/">Junior Cybersecurity Analyst || Cyber Threat Analyst</a></h1>
 
 <h2>👨‍💻 Cybersecurity Capstone Project:</h2>
 
