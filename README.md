@@ -6,7 +6,7 @@
 
 <h2>🧪 Cybersecurity Labs:</h2>
 
-- [EC-Council CyberQ Lab: Vulnerability Assessment](https://github.com/Joatjay)
+- [EC-Council CyberQ Lab: Vulnerability Assessment](https://github.com/vipercipher)
 - [SQLi Labs](https://github.com/vipercipher)
 - [Network Enumeration with NMAP](https://github.com/vipercipher)
 
