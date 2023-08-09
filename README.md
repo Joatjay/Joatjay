@@ -2,12 +2,13 @@
 
 <h2>👨‍💻 Cybersecurity Capstone Project:</h2>
 
-- [Threat Modeling](https://github.com/Joatjay/ThreatModelingProject))
+- [Threat Modeling](https://github.com/Joatjay/ThreatModelingProject)
 
 <h2>🧪 Cybersecurity Labs:</h2>
 
 - [EC-Council CyberQ Lab: Vulnerability Assessment](https://github.com/Joatjay)
 - [SQLi Labs](https://github.com/Joatjay)
+- [Network Enumeration with NMAP](https://github.com/Joatjay)
 
 <h2> 🤳 Connect with me:</h2>
 
