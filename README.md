@@ -7,7 +7,7 @@
 <h2>🧪 Cybersecurity Labs & Learnings:</h2>
 
 - [EC-Council CyberQ Lab: Vulnerability Assessment](https://github.com/vipercipher)
-- [SQLi Labs - Injection through Burp Suite](https://github.com/vipercipher)
+- [SQLi Vulnerabilities - Injection through Burp Suite](https://github.com/vipercipher)
 - [Network Enumeration with NMAP](https://github.com/vipercipher)
 
 <h2> 🤳 Connect with me:</h2>
