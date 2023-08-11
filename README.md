@@ -8,7 +8,7 @@
 
 - [EC-Council CyberQ Lab: Vulnerability Assessment](https://github.com/vipercipher)
 - [SQLi Vulnerabilities - Injection through Burp Suite](https://github.com/vipercipher)
-    - [SQLi Attack, querying the database type and version on Oracle, MySQL, Microsoft, PostgreSQL](https://github.com/vipercipher)
+    - [SQLi Attack, querying the database type and version on Oracle, MySQL, Microsoft, PostgreSQL](https://github.com/vipercipher/SQLiVuln/blob/main/README.md)
     - [SQLi Attack, listing the database contents on Oracle](https://github.com/vipercipher)
     - [SQL injection UNION attack, finding a column containing text](https://github.com/vipercipher)
 - [Network Enumeration with NMAP](https://github.com/vipercipher)
