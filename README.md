@@ -8,7 +8,7 @@
 
 - [EC-Council CyberQ Lab: Vulnerability Assessment](https://github.com/vipercipher)
 - [SQLi ATTACK - Injection through Burp Suite](https://github.com/vipercipher/SQLiVuln/blob/main/README.md)
-- [Network Enumeration with NMAP](https://github.com/vipercipher)
+- [Network Enumeration with NMAP](https://github.com/vipercipher/NetworkEnumerationNMAP)
 
 <h2> 🤳 Connect with me:</h2>
 
